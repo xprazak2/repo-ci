@@ -12,7 +12,5 @@ class TestGreeter < Test::Unit::TestCase
   # def test_greeter_fail
     # assert_equal("Hello planet!", greeter)
   # end
-
-  
 end
 
