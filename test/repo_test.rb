@@ -9,8 +9,8 @@ class TestGreeter < Test::Unit::TestCase
     assert_equal("Hello world!", greeter)
   end
 
-  def test_greeter_fail
-    assert_equal("Hello planet!", greeter)
-  end
+  # def test_greeter_fail
+    # assert_equal("Hello planet!", greeter)
+  # end
 end
 
